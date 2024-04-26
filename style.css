@@ -35,8 +35,10 @@ p {
 }
 
 button {
-    border: 0;
+    border: 10;
     border-radius: 5px;
+    background-color: aqua;
+    border-color: aqua;
     margin-top: 50px;
     height: 50 px;
     width: 200px;
@@ -45,9 +47,7 @@ button {
     cursor: pointer;
     transition: all 500ms ease;
     color: var(--tg-them-button-color);
-    background: var(--tg-them-button-text-color);
-}
-
+    
 button:hover {
     background: var(--tg-them-secondary-bg-color);
 }
