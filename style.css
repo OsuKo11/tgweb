@@ -54,12 +54,12 @@ button:hover {
 
 
 #form {
-    display: block;
+    display: none;
     text-align: center;
 }
 
 input {
-    width: 70%;
+    width: 77%;
     outline: none;
     margin: 10px 5%;
     padding: 15px 10px; font-size: 14px;
